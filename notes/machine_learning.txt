@@ -1,0 +1,67 @@
+MACHINE LEARNING
+
+Machine Learning is a branch of Artificial Intelligence in which computers learn patterns from data and use those patterns to make predictions or decisions.
+
+1. Supervised Learning
+In supervised learning, the model learns from labeled data.
+
+The dataset contains:
+- Features: input variables
+- Target: output that we want to predict
+
+Examples:
+- Predicting house prices
+- Predicting student grades
+- Classifying emails as spam or not spam
+
+2. Regression
+Regression is used when the target is a continuous numerical value.
+
+Examples:
+- House price prediction
+- Temperature prediction
+- Student grade prediction
+
+3. Classification
+Classification is used when the target belongs to categories.
+
+Examples:
+- Spam or not spam
+- Pass or fail
+- Disease or no disease
+
+4. Unsupervised Learning
+In unsupervised learning, the data does not have labeled target values.
+
+The model tries to find patterns or groups in the data.
+
+Example:
+K-Means clustering.
+
+5. Features and Target
+Features are the input variables used by the model.
+
+The target is the value the model tries to predict.
+
+6. Train-Test Split
+A dataset is commonly divided into training and testing data.
+
+Training data is used to learn patterns.
+
+Testing data is used to evaluate how well the model performs on unseen data.
+
+7. Random Forest
+Random Forest is an ensemble machine learning algorithm.
+
+It combines multiple decision trees to make predictions.
+
+For regression, the trees' predictions can be combined to produce a final numerical prediction.
+
+8. Overfitting
+Overfitting happens when a model learns the training data too closely and performs poorly on new data.
+
+9. Underfitting
+Underfitting happens when a model is too simple to learn important patterns from the data.
+
+Important study tip:
+First understand features, target, supervised learning, regression, and classification. Then study algorithms such as Decision Trees and Random Forest.

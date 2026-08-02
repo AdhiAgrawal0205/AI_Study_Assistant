@@ -1,0 +1,63 @@
+NATURAL LANGUAGE PROCESSING
+
+Natural Language Processing (NLP) is a field of Artificial Intelligence that focuses on enabling computers to process and understand human language.
+
+1. Text Processing
+Raw text usually needs preprocessing before it can be used by a machine learning model.
+
+Common preprocessing steps include:
+- Converting text to lowercase
+- Removing unnecessary characters
+- Tokenization
+- Removing stop words when appropriate
+
+2. Tokenization
+Tokenization means dividing text into smaller units called tokens.
+
+Depending on the tokenizer, tokens can represent words, subwords, or other pieces of text.
+
+Example:
+"I like Python"
+
+Possible tokens:
+"I", "like", "Python"
+
+3. Stop Words
+Stop words are common words that may carry limited information for some NLP tasks.
+
+Examples can include words such as "the", "is", and "a".
+
+Whether stop words should be removed depends on the task.
+
+4. Stemming
+Stemming reduces words to a simpler root-like form.
+
+For example, words such as "playing" and "played" may be reduced to a common stem.
+
+5. Lemmatization
+Lemmatization converts words to their meaningful dictionary base form.
+
+It generally uses more linguistic information than simple stemming.
+
+6. Bag of Words
+Bag of Words represents text using the frequency of words.
+
+It does not consider the order of words.
+
+7. TF-IDF
+TF-IDF stands for Term Frequency-Inverse Document Frequency.
+
+It gives higher importance to words that are important in a document but less common across many documents.
+
+8. Word Embeddings
+Word embeddings represent words or tokens as numerical vectors.
+
+They can capture relationships between words based on their usage in language.
+
+9. Large Language Models
+Large Language Models are neural network models trained on large amounts of text.
+
+They can perform tasks such as text generation, summarization, question answering, and language understanding.
+
+Important study tip:
+First understand tokenization and basic text preprocessing. Then study Bag of Words and TF-IDF. After that, learn embeddings and Large Language Models.

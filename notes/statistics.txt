@@ -1,0 +1,21 @@
+Statistics
+
+Mean:
+Mean is the average of a set of numerical values.
+It is calculated by adding all values and dividing by the number of values.
+
+Median:
+Median is the middle value when data is arranged in ascending or descending order.
+
+Mode:
+Mode is the value that occurs most frequently in a dataset.
+
+Variance:
+Variance measures how far data values are spread from their mean.
+
+Standard Deviation:
+Standard deviation measures the typical spread of values around the mean.
+
+Probability:
+Probability represents how likely an event is to occur.
+Its value ranges from 0 to 1.

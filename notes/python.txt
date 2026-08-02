@@ -1,0 +1,81 @@
+PYTHON PROGRAMMING
+
+Python is a high-level programming language widely used in software development, data science, machine learning, and automation.
+
+1. Variables
+A variable stores a value.
+
+Example:
+x = 10
+name = "Student"
+
+2. Data Types
+Common Python data types include:
+- int: integer values
+- float: decimal values
+- str: text
+- bool: True or False
+- list: ordered collection
+- tuple: immutable collection
+- dictionary: key-value pairs
+
+3. Conditional Statements
+Conditional statements allow a program to make decisions.
+
+Example:
+
+if marks >= 40:
+    print("Pass")
+else:
+    print("Fail")
+
+4. Loops
+Loops repeat a block of code.
+
+A for loop is commonly used to iterate over a sequence.
+
+Example:
+
+for i in range(5):
+    print(i)
+
+5. Functions
+A function is a reusable block of code.
+
+Example:
+
+def add(a, b):
+    return a + b
+
+6. Lists
+A list can store multiple values.
+
+Example:
+
+numbers = [10, 20, 30, 40]
+
+7. Dictionaries
+A dictionary stores data using key-value pairs.
+
+Example:
+
+student = {
+    "name": "Alex",
+    "marks": 85
+}
+
+8. Exception Handling
+Exception handling allows a program to handle errors without immediately stopping.
+
+The main keywords are try and except.
+
+9. File Handling
+Python can read and write files.
+
+Example:
+
+with open("notes.txt", "r") as file:
+    content = file.read()
+
+Important study tip:
+Practice small programs instead of only reading theory. Focus on conditions, loops, functions, lists, dictionaries, and file handling.
